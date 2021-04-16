@@ -1,0 +1,12 @@
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\obj\Debug\Baza.csprojAssemblyReference.cache
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\Baza.exe.config
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\Baza.exe
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\Baza.pdb
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\EntityFramework.dll
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\EntityFramework.xml
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\obj\Debug\Baza.exe
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\Baza\obj\Debug\Baza.pdb
