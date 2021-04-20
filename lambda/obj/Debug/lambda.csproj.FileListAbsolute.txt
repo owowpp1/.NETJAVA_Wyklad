@@ -1,0 +1,7 @@
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\bin\Debug\lambda.exe.config
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\bin\Debug\lambda.exe
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\bin\Debug\lambda.pdb
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\obj\Debug\lambda.csprojAssemblyReference.cache
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\obj\Debug\lambda.exe
+C:\Users\Bidze\Desktop\Studia lol\6sem\.NJ\wyklad\.NETJAVA_Wyklad\lambda\obj\Debug\lambda.pdb
